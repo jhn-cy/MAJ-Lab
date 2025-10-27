@@ -1,2 +1,2 @@
 # MAJ-Lab
-Lab Work and Setup for "Malware Analysis Journey (MAJ)"
+Setup for "Malware Analysis Journey (MAJ)" accompanied by lab work
